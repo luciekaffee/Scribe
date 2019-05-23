@@ -1,6 +1,9 @@
-#Participant Information Sheet
+# Participant Information Sheet
+
 **Study Title**: Editing references in Wikipedia
+
 **Researcher**: Lucie-Aimée Kaffee, Hady Elsahar
+
 **ERGO number**: 48849
 
 
@@ -13,6 +16,7 @@ take part. If you are happy to participate you will be asked to sign a consent f
 
 
 **What is the research about?**
+
 In the context of Scribe, a tool to support editors to create new articles, we want to understand
 how editors are currently finding references, what challenges are and how they could be
 supported to overcome those challenges. I am a PhD researcher at the University of
@@ -20,24 +24,29 @@ Southampton, collaborating with Hady Elsahar in this project as part of [Scribe]
 
 
 **Why have I been asked to participate?**
+
 We are looking for editors of any language Wikipedia, that have experience in creating or
 extending articles. This will help us understand the current workflow of editors. 
 
 
 **What will happen to me if I take part?**
+
 We will ask you a set of questions about your editing. We will encourage you to tell us your
 experience with editing. If needed, you can look up information online and share the screen
 with us. We will record the audio of the conversation and the screen if any work is done on the
 computer.
 
 **Are there any benefits in my taking part?**
+
 Our interviews will be the base to create tools to support editors in editing and creating articles
 in Wikipedia, with a focus on under-resourced Wikipedias. These insights will be useful longterm to support editors.
 
 **Are there any risks involved?**
+
 There are no risks involved.
 
 **What data will be collected?**
+
 We will collect and transcribe the audio files collected at the interviews with the researchers.
 No personal data will be collected or stored. All data will be pseudonymised and only stored on
 the password protected computers of the researchers. The consent forms will not be stored
@@ -45,6 +54,7 @@ with the interview files. The codes for the pseudonymised files will only be acc
 researchers of this study.
 
 **Will my participation be confidential?**
+
 Your participation and the information we collect about you during the course of the research
 will be kept strictly confidential.
 Only members of the research team and responsible members of the University of
@@ -55,15 +65,18 @@ correctly) may require access to your data. All of these people have a duty to k
 information, as a research participant, strictly confidential.
 
 **Do I have to take part?**
+
 No, it is entirely up to you to decide whether or not to take part. If you decide you want to take
 part, you will need to sign a consent form to show you have agreed to take part. 
 
 **What happens if I change my mind?**
+
 You have the right to change your mind and withdraw at any time without giving a reason and
 without your participant rights being affected but we would ask you to do so latest two
 weeks after the interview takes place. 
 
 **What will happen to the results of the research?**
+
 Your personal details will remain strictly confidential. Research findings made available in any
 reports or publications will not include information that can directly identify you without your
 specific consent. The results will be published in a research venue, such as a conference or
@@ -74,9 +87,11 @@ that could indicate the identity of the participant (such as username). If the t
 shared, it will only be with other researchers, and never in full to ensure anonymity.
 
 **Where can I get more information?**
+
 If you have any more questions, contact Lucie <kaffee[@]soton.ac.uk>
 
 **What happens if there is a problem?**
+
 If you have a concern about any aspect of this study, you should speak to the researchers who
 will do their best to answer your questions: Lucie <kaffee[@]soton.ac.uk>
 If you remain unhappy or have a complaint about any aspect of this study, please contact the
@@ -84,6 +99,7 @@ University of Southampton Research Integrity and Governance Manager (023 8059 50
 rgoinfo@soton.ac.uk).
 
 **Data Protection Privacy Notice**
+
 The University of Southampton conducts research to the highest standards of research
 integrity. As a publicly-funded organisation, the University has to ensure that it is in the public
 interest when we use personally-identifiable information about people who have agreed to take
@@ -127,4 +143,5 @@ you can make a request using our online form. If you need further assistance, pl
 the University’s Data Protection Officer (data.protection@soton.ac.uk).
 
 **Thank you!**
+
 We are looking forward to working with you and improving Wikipedia together!
